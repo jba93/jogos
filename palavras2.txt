@@ -1,0 +1,14 @@
+Cor
+Amarelo
+Azul
+Bege
+Branco
+Ciano
+Cinza
+Laranja
+Marrom
+Preto
+Rosa
+Verde
+Vermelho
+Violeta

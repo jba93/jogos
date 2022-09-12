@@ -1,0 +1,23 @@
+Animal Mamífero
+Cachorro
+Gato
+Vaca
+Ovelha
+Hamster
+Rato
+Onça
+Leopardo
+Cabra
+Touro
+Cabrito
+Morcego
+Baleia
+Macaco
+Elefante
+Girafa
+Porco
+Zebra
+Foca
+Golfinho
+Cavalo
+Leão
