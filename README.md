@@ -1,4 +1,12 @@
-# jogos
+# Jogos com Python
+
+### Tecnologias utilizadas
+Python e PyCharm.
+
+### Desafio
+https://cursos.alura.com.br/course/python-3-avancando-na-linguagem
+
+### Descrição
 Projeto realizado nos cursos de Python (prof. Nico Steppat) da Formação: Iniciando com Engenharia de Dados da Alura com modificações feitas por mim.
 
 Temos três scripts:
